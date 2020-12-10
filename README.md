@@ -1,2 +1,2 @@
 # 2xRegressedSST-LMR
-work from Princeton 2020
+Most recent work from Princeton, good example code for TC kmeans clustering with scikit-learn, bootstrap analysis, global plots, etc.
